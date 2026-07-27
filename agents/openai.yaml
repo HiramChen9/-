@@ -1,0 +1,4 @@
+interface:
+  display_name: "电商白底商品图"
+  short_description: "根据参考图与商品实拍细节生成高保真标准电商白底商品图"
+  default_prompt: "使用 $ecommerce-white-background-image，根据参考图和商品实拍图生成 3 张 800×800 电商白底图。"
